@@ -14,7 +14,7 @@ This web application allows users to predict the price of diamonds based on vari
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/diamond-price-prediction.git ```
+   git clone https://github.com/navneetguptacse/diamond-price-prediction.git ```
 
 2. Install the required dependencies:
 
