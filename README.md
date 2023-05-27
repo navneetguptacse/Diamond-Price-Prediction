@@ -1,4 +1,4 @@
-# Diamond Price Prediction
+# 💎 Diamond Price Prediction
 
 This web application allows users to predict the price of diamonds based on various attributes and quality factors. It provides accurate price estimations by leveraging advanced machine learning algorithms and a comprehensive dataset of diamond characteristics.
 
