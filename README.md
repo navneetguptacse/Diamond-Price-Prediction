@@ -49,7 +49,7 @@ The diamond dataset used for training the model is sourced from [source-name]. I
 
 ## License
 
-This project is licensed under the [The Centrabyte Inc.](LICENSE).
+This project is licensed under the [The Centrabyte Inc](LICENSE).
 
 ## Acknowledgements
 
